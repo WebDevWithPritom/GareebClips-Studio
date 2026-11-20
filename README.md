@@ -19,6 +19,9 @@ Most AI clippers work on a **finished** video, in **the cloud**, on a **monthly 
 - **👥 Reads the room:** chat surges, laugh and hype emotes, and the streamer's facecam reactions count as hype signals. Twitch ad breaks are skipped automatically.
 - **🎮 Made for gaming and campaigns:**
   - "Game + face" split layout, full-screen fit, and an action-tracking crop;
+  - sentence-snapping visual timeline, split-at-playhead, and export presets (TikTok / Reels / Shorts / X);
+  - offline clipper FX: GTA WASTED climax, screen shake, impact flash, and reaction badges (W, L, HYPE, RIP);
+  - custom local B-roll and meme cutaways (drop in your own MP4/PNG memes);
   - punch zoom, best-of montage, and animated captions with a hook title;
   - campaign rules are checked before you export (required hashtag, streamer on screen, no logos);
   - clean-language mode masks swear words.
@@ -33,9 +36,10 @@ Most AI clippers work on a **finished** video, in **the cloud**, on a **monthly 
 | Price | **₹99 once** | monthly plan / credits |
 | Runs offline on your own laptop | ✅ | ❌ uploads your video to their servers |
 | API keys / accounts needed | none | account (+ API keys if self-hosted) |
+| Local B-roll, meme cutaways & clipper FX | ✅ 100% offline | ❌ stock video / cloud |
 | Twitch chat, ad-skipping and campaign rule checks | ✅ | ❌ |
 | Hindi / Hinglish | ✅ | varies |
-| B-roll stock footage, direct posting to socials | not yet | often ✅ |
+| Direct posting to socials | not yet | often ✅ |
 
 <a id="download"></a>
 ## Download
