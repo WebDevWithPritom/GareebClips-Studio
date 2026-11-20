@@ -45,8 +45,8 @@ Most AI clippers work on a **finished** video, in **the cloud**, on a **monthly 
 ## Download
 | Platform | File | Notes |
 |---|---|---|
-| Windows 10/11 (64-bit) | [GareebClips-Studio-Windows-Setup.exe](https://mega.nz/file/lvgT0CLY#Sp_1W5rax_XrMFfSAGeajS54e1vO-A27a2uVHXDjYvg) | If SmartScreen appears: **More info → Run anyway** (not code-signed yet) |
-| Mac (Apple Silicon M1–M4) | [GareebClips-Studio-macOS-AppleSilicon.zip](https://mega.nz/file/BzwgRRaB#L10CBI8ZGXH8OwX3TvPgB4p7ePfxnf9Q4rR5zi0G5hk) | First launch: **System Settings → Privacy & Security → Open Anyway** |
+| Windows 10/11 (64-bit) | [GareebClips-Studio-Windows-Setup.exe](https://mega.nz/file/N7R3EZJC#wmL6RPgJQZMkpmGgqJO6gHAsOCR8uJH0x0DGxZaCTsM) | If SmartScreen appears: **More info → Run anyway** (not code-signed yet) |
+| Mac (Apple Silicon M1–M4) | [GareebClips-Studio-macOS-AppleSilicon.zip](https://mega.nz/file/8uhVTbaK#P_EC7CcunEdw6Xy2zMuxuYJkP4g7MqTl2L5B7yh6_mY) | First launch: **System Settings → Privacy & Security → Open Anyway** |
 
 New versions are announced in this repo's [Releases](https://github.com/WebDevWithPritom/GareebClips-Studio/releases).
 
