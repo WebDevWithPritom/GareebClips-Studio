@@ -10,6 +10,33 @@ Clip live streams <i>while they're still live</i>, on your own laptop, with no s
 
 ---
 
+## New in Version 1.0
+- **⚡ In-App ₹99 Lifetime Activation:** Purchase and activate your offline license directly inside the app shell.
+- **🔄 Auto Update Checker:** Check for software patches with one click under **Settings → App Version & Updates**.
+- **🤖 Visual Smart AI Mode:** 3-step visual installer to optionally connect free local Ollama (`qwen2.5:3b-instruct`) for offline context re-ranking.
+- **✂️ Clip Timeline Trimmer & B-Roll:** Interactive timeline editor with sentence snapping, instant re-render, and local meme cutaways (GTA WASTED, Screen Shake, Hype stickers).
+
+---
+
+## 3-Step Setup Guide
+
+### Step 1: Install & Launch
+- **Windows:** Download `GareebClips-Studio-Windows-Setup.exe`. Run the installer. If Windows SmartScreen appears, click **More info → Run anyway** (app runs 100% locally on your PC).
+- **Mac (Apple Silicon):** Download `GareebClips-Studio-macOS-AppleSilicon.zip`. Double-click to extract, then open `GareebClips Studio`. (If prompted, go to **System Settings → Privacy & Security → Open Anyway**).
+
+### Step 2: Start Clipping
+- **Live Channels:** Paste any Kick, Twitch, or YouTube channel link (e.g. `https://kick.com/xqc`) and click **Start Clipping**. Clips appear automatically 60 seconds after exciting moments happen live!
+- **Local Videos:** You can also drop any recorded video (MP4, MOV, MKV) to extract viral clips instantly.
+
+### Step 3: Edit, Add Memes & Export
+- Open any clip in the **Clip Editor**.
+- Drag the timeline handles to trim start or end times.
+- Pick your layout (**Game + Facecam 9:16**, Full Fit, or Vertical Zoom).
+- Add 1-click reaction badges (**W**, **L**, **HYPE**, **WASTED**) or upload your own B-roll meme cutaway.
+- Click **Export** to get your TikTok / Reels / YouTube Shorts video ready to upload.
+
+---
+
 ## Why clippers use it
 Most AI clippers work on a **finished** video, in **the cloud**, on a **monthly plan**. GareebClips Studio is built the other way round:
 
