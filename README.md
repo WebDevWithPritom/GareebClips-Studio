@@ -5,6 +5,7 @@ Clip live streams <i>while they're still live</i>, on your own laptop, with no s
 <p align="center">
   <a href="https://gareebclips.webdevwithpritom.com/"><b>Get it (₹99 lifetime)</b></a> ·
   <a href="#download">Download the free trial</a> ·
+  <a href="docs/GareebClips-Studio-User-Guide.pdf"><b>📄 Complete User Guide (PDF)</b></a> ·
   <a href="https://github.com/WebDevWithPritom/GareebClips-Studio/issues">Report a bug / request a feature</a>
 </p>
 
@@ -67,6 +68,10 @@ Most AI clippers work on a **finished** video, in **the cloud**, on a **monthly 
 | Twitch chat, ad-skipping and campaign rule checks | ✅ | ❌ |
 | Hindi / Hinglish | ✅ | varies |
 | Direct posting to socials | not yet | often ✅ |
+
+## 📖 Official PDF User Guide & Playbook
+Download the full offline documentation:
+- **[Download GareebClips-Studio-User-Guide.pdf](docs/GareebClips-Studio-User-Guide.pdf)** — Covers 2-minute quickstart, live stream URL ingestion, clip timeline trimming, B-roll/meme cutaway integration, local Smart AI (Ollama) mode, and Whop bounty monetization rules.
 
 <a id="download"></a>
 ## Download
